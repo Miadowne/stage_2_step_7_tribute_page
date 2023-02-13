@@ -1,1 +1,12 @@
-/* Copy and paste your CSS from CodePen into here */
+#image {
+    max-width: 100%;
+    display: block;
+  
+  }
+  
+  #img {
+    width: 50;
+  }
+  #main{
+    background: silver;
+  }
